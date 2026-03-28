@@ -274,7 +274,7 @@ The game is designed for multi-platform deployment:
 
 **Raffaele Gatta** — Team: NetNerd
 Computer Science — University of Bari
-Course: Cyber Security (A.Y. 2023/24) — Prof.ssa Vita Barletta
+**Course**: Cyber Security (A.Y. 2023/24) — Prof.ssa Vita Barletta
 
 ---
 
